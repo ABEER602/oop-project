@@ -1,0 +1,5 @@
+iqra,123as,owner
+noor,67,sales_man
+noor,123,sales_man
+ago,12,owner
+ali,12,sales_man

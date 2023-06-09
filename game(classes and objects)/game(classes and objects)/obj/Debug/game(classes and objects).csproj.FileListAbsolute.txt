@@ -1,0 +1,10 @@
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP (PD's)\game(classes and objects)\game(classes and objects)\bin\Debug\game(classes and objects).exe.config
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP (PD's)\game(classes and objects)\game(classes and objects)\bin\Debug\game(classes and objects).exe
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP (PD's)\game(classes and objects)\game(classes and objects)\bin\Debug\game(classes and objects).pdb
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP (PD's)\game(classes and objects)\game(classes and objects)\obj\Debug\game(classes and objects).csproj.AssemblyReference.cache
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP (PD's)\game(classes and objects)\game(classes and objects)\obj\Debug\game(classes and objects).csproj.CoreCompileInputs.cache
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP (PD's)\game(classes and objects)\game(classes and objects)\obj\Debug\game(classes and objects).exe
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP (PD's)\game(classes and objects)\game(classes and objects)\obj\Debug\game(classes and objects).pdb
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP (PD's)\game(classes and objects)\game(classes and objects)\bin\Debug\EZInput.dll
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP (PD's)\game(classes and objects)\game(classes and objects)\bin\Debug\EZInput.xml
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP (PD's)\game(classes and objects)\game(classes and objects)\obj\Debug\game(classes and objects).csproj.CopyComplete

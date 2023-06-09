@@ -1,0 +1,21 @@
+C:\Users\abeer\OneDrive\Desktop\business application\business application\business application\obj\Debug\business application.csproj.AssemblyReference.cache
+C:\Users\abeer\OneDrive\Desktop\business application\business application\business application\obj\Debug\business application.csproj.CoreCompileInputs.cache
+C:\Users\abeer\OneDrive\Desktop\business application\business application\business application\bin\Debug\business application.exe.config
+C:\Users\abeer\OneDrive\Desktop\business application\business application\business application\bin\Debug\business application.exe
+C:\Users\abeer\OneDrive\Desktop\business application\business application\business application\bin\Debug\business application.pdb
+C:\Users\abeer\OneDrive\Desktop\business application\business application\business application\obj\Debug\business application.exe
+C:\Users\abeer\OneDrive\Desktop\business application\business application\business application\obj\Debug\business application.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\business application\business application\business application\bin\Debug\business application.exe.config
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\business application\business application\business application\bin\Debug\business application.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\business application\business application\business application\bin\Debug\business application.pdb
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\business application\business application\business application\obj\Debug\business application.csproj.AssemblyReference.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\business application\business application\business application\obj\Debug\business application.csproj.CoreCompileInputs.cache
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\business application\business application\business application\obj\Debug\business application.exe
+C:\Users\abdul sattar\OneDrive\Desktop\OPP2\business application\business application\business application\obj\Debug\business application.pdb
+C:\Users\abdul sattar\Downloads\correct\business application\business application\business application\bin\Debug\business application.exe.config
+C:\Users\abdul sattar\Downloads\correct\business application\business application\business application\bin\Debug\business application.exe
+C:\Users\abdul sattar\Downloads\correct\business application\business application\business application\bin\Debug\business application.pdb
+C:\Users\abdul sattar\Downloads\correct\business application\business application\business application\obj\Debug\business application.csproj.AssemblyReference.cache
+C:\Users\abdul sattar\Downloads\correct\business application\business application\business application\obj\Debug\business application.csproj.CoreCompileInputs.cache
+C:\Users\abdul sattar\Downloads\correct\business application\business application\business application\obj\Debug\business application.exe
+C:\Users\abdul sattar\Downloads\correct\business application\business application\business application\obj\Debug\business application.pdb

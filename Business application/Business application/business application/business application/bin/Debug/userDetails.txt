@@ -1,0 +1,12 @@
+z,1,owner
+q,1,sales_man
+w,1,sales_man
+no,8789\,sales_man
+noor,dfg,sales_man
+jk,689,sales_man
+j,k,sales_man
+alii,233,owner
+qla,22,sales_man
+kumail,8,owner
+sd,32,sjd
+asma,12,owner
