@@ -1,0 +1,7 @@
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP labs\For Each Loop\For Each Loop\obj\Debug\For Each Loop.csproj.AssemblyReference.cache
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP labs\For Each Loop\For Each Loop\obj\Debug\For Each Loop.csproj.CoreCompileInputs.cache
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP labs\For Each Loop\For Each Loop\bin\Debug\For Each Loop.exe.config
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP labs\For Each Loop\For Each Loop\bin\Debug\For Each Loop.exe
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP labs\For Each Loop\For Each Loop\bin\Debug\For Each Loop.pdb
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP labs\For Each Loop\For Each Loop\obj\Debug\For Each Loop.exe
+C:\Users\abeer\OneDrive\Desktop\Semester 2\OOP labs\For Each Loop\For Each Loop\obj\Debug\For Each Loop.pdb
